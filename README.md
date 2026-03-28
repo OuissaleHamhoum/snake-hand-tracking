@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nokia Snake Hand Tracking Game
 
 A classic Snake game controlled by hand gestures using computer vision.
@@ -20,3 +21,7 @@ A classic Snake game controlled by hand gestures using computer vision.
 ```bash
 git clone https://github.com/OuissaleHamhoum/snake-hand-tracking.git
 cd snake-hand-tracking
+=======
+# snake-hand-tracking
+A classic Snake game controlled by hand gestures using computer vision.
+>>>>>>> 43a6e4efcb7063d6923f8d1ff83f8586eaf153e9
